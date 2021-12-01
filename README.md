@@ -5,7 +5,7 @@
 
 
 
- <img src="https://github.com/leeseomin/Remastering_masterpieces/blob/main/art/monet3.png" width="2000">
+ <img src="https://github.com/leeseomin/Remastering_masterpieces/blob/main/art/monet3a.png" width="2000">
 
 <br/><br/>
 

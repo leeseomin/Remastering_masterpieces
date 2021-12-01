@@ -14,7 +14,7 @@
 
 
 
- <img src="https://github.com/leeseomin/Remastering_masterpieces/blob/main/art/klimt2.png" width="2000">
+ <img src="https://github.com/leeseomin/Remastering_masterpieces/blob/main/art/klimt2h.png" width="2000">
 
 <br/><br/>
 

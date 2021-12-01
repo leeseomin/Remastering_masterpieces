@@ -27,7 +27,7 @@
 <br/><br/>
 
 
-### Madonna 2021 
+### Madonna 2021 (Munch in algorithm)
 
 
  <img src="https://github.com/leeseomin/Remastering_masterpieces/blob/main/art/Madonna2021.png" width="2000">

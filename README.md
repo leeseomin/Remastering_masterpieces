@@ -10,6 +10,17 @@
 <br/><br/>
 
 
+
+### Monet in algorithm No.5
+
+
+
+ <img src="https://github.com/leeseomin/Remastering_masterpieces/blob/main/art/monet5.png" width="2000">
+
+<br/><br/>
+
+
+
 ### Klimt in algorithm No.2
 
 

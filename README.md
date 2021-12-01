@@ -19,7 +19,12 @@
 <br/><br/>
 
 
+### Degas in algorithm No.5
 
+
+ <img src="https://github.com/leeseomin/Remastering_masterpieces/blob/main/art/degas5.png.png" width="2000">
+
+<br/><br/>
 
 
 

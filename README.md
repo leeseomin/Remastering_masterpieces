@@ -1,6 +1,11 @@
 # Remastering masterpieces to NFT
 <br/><br/>
 
+It was created through the following my algorithms.
+https://github.com/leeseomin 
+
+<br/><br/>
+
 ### Monet in algorithm No.3
 
 

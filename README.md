@@ -6,6 +6,17 @@ https://github.com/leeseomin
 
 <br/><br/>
 
+
+### Vermeer in algorithm No.2
+
+
+
+ <img src="https://github.com/leeseomin/Remastering_masterpieces/blob/main/art/Vermeer2.png" width="2000">
+
+<br/><br/>
+
+
+
 ### Monet in algorithm No.3
 
 
